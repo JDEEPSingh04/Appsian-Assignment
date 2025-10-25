@@ -26,7 +26,7 @@ dotnet restore
 dotnet run
 ```
 
-Backend runs on `http://localhost:5000`
+Backend runs on `http://localhost:5209`
 
 ### Frontend
 
