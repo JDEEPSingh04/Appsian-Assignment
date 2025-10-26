@@ -16,6 +16,25 @@ A full-stack project management application with task scheduling and dependency 
 - Track task completion and progress
 - Responsive UI with modern design
 
+## Screenshots
+
+### Login Page
+![Login Page](images/LoginPage.png)
+
+### Register Page
+![Register Page](images/RegisterPage.png)
+
+### Dashboard
+![Dashboard](images/Dashboard.png)
+![Dashboard View](images/Dashboard1.png)
+
+### Adding Task
+![Adding Task](images/AddingTask.png)
+
+### Smart Scheduler
+![Smart Scheduler](images/SmartScheduler.png)
+![Smart Scheduler View](images/SmartScheduler1.png)
+
 ## Setup Instructions
 
 ### Backend
@@ -26,7 +45,7 @@ dotnet restore
 dotnet run
 ```
 
-Backend runs on `http://localhost:5209`
+Backend runs on `http://localhost:5000`
 
 ### Frontend
 
